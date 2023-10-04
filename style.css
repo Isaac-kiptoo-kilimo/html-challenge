@@ -23,12 +23,27 @@ body{
 }
 .card{
     background-color: white;
-    /* width: 25%; */
+    text-align: center;
     width: 18rem;
     padding: 10px;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
+.qr-image{
+    margin: 5px;
+}
+
+.content{
+    margin: 5px;
+    font-size: 15px;
+}
+.content h2{
+    margin: 15px 0;
+}
+
+.content p{
+    margin-bottom: 15px;
+}
 .attribution {
     font-size: 11px;
     text-align: center;
